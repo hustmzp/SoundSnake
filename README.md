@@ -22,7 +22,7 @@ DEMO VIDEO:[Video presentation](https://v.youku.com/v_show/id_XNDI5MDI2NjE2NA==.
 
 ### System Architecture
 
-![system_architecture](0)
+![system_architecture][0]
 
 ## Hardware and Software Setup
 ### Required Hardware
@@ -101,7 +101,7 @@ See [ embARC Example User Guide][40], **"Options to Hard-Code in the Application
 |  wm8978.c/wm8978.h  |  Config wm8978 through I2C               |
 |  wm8978i2s.c/.h     |  I2S driver                              |
 
-[0]: ./images/System_Architecture.PNG           "system_architecture"
+[0]: ./images/System_Architecture.png           "system_architecture"
 [1]: ./images/ARC_IoT_Development_Kit.jpg       "ARC IoT Development Kit"
 [2]: ./images/WM8978_CODEC_module.jpg           "WM8978 CODEC module"
 [3]: ./images/LED_Matrix(MAX7219).jpg           "LED Matrix"
