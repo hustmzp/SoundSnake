@@ -28,15 +28,15 @@ DEMO VIDEO:[Video presentation](https://v.youku.com/v_show/id_XNDI5MDI2NjE2NA==.
 ### Required Hardware
 - ARC IoT Development Kit
 
-![ARC IoT Development Kit][1]
+	![ARC IoT Development Kit][1]
 
 - WM8978 CODEC module
 
-![WM8978 CODEC module][2]
+	![WM8978 CODEC module][2]
 
 - LED Matrix(MAX7219)
 
-![LED Matrix][3]
+	![LED Matrix][3]
 
 ### Required Software
 - ARC GNU Toolset 2018.09
