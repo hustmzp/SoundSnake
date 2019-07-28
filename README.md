@@ -22,21 +22,21 @@ DEMO VIDEO:[Video presentation](https://v.youku.com/v_show/id_XNDI5MDI2NjE2NA==.
 
 ### System Architecture
 
-![system_architecture][0]
+![system_architecture](https://github.com/hustmzp/SoundSnake/raw/master/images/System%20Architecture.PNG)
 
 ## Hardware and Software Setup
 ### Required Hardware
 - ARC IoT Development Kit
 
-![ARC IoT Development Kit][1]
+	<img src="https://github.com/hustmzp/SoundSnake/raw/master/images/ARC%20IoT%20Development%20Kit.jpg" width="50%" height="50%" />
 
 - WM8978 CODEC module
 
-![WM8978 CODEC module][2]
+	<img src="https://github.com/hustmzp/SoundSnake/raw/master/images/WM8978%20CODEC%20module.jpg" width="50%" height="50%" />
 
 - LED Matrix(MAX7219)
 
-![LED Matrix][3]
+	<img src="https://github.com/hustmzp/SoundSnake/raw/master/images/LED%20Matrix(MAX7219).jpg" width="50%" height="50%" />
 
 ### Required Software
 - ARC GNU Toolset 2018.09
@@ -100,10 +100,5 @@ See [ embARC Example User Guide][40], **"Options to Hard-Code in the Application
 |  FFT.c/FFT.h        |  Fast Fourier transform                  |
 |  wm8978.c/wm8978.h  |  Config wm8978 through I2C               |
 |  wm8978i2s.c/.h     |  I2S driver                              |
-
-[0]: https://github.com/hustmzp/SoundSnake/raw/master/images/System%20Architecture.PNG
-[1]: https://github.com/hustmzp/SoundSnake/raw/master/images/ARC%20IoT%20Development%20Kit.jpg
-[2]: https://github.com/hustmzp/SoundSnake/raw/master/images/WM8978%20CODEC%20module.jpg
-[3]: https://github.com/hustmzp/SoundSnake/raw/master/images/LED%20Matrix(MAX7219).jpg
 
 [40]: http://embarc.org/embarc_osp/doc/embARC_Document/html/page_example.html   " embARC Example User Guide"
